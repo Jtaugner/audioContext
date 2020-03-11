@@ -1,5 +1,5 @@
 # AudioContext
-Fix for sounds in browser on IOS. If you need to run different sounds at the same time, your sounds play with a delay, or your sounds don't work at all - use it.
+Fix for sounds in browser on IOS. If you need to run different sounds at the same time, your sounds play with a delay, or your sounds don't work at all - use it. This is useful for HTML5-games.
 ## Using
 ```js
 //Path of sound
